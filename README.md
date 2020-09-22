@@ -41,7 +41,9 @@ yarn global add vuepress # 或者：npm install -g vuepress
 ```
 
 ## 安装插件
-
+```
+npm i vuepress-plugin-auto-sidebar -D
+```
 
 ## 运行本项目
 ```
